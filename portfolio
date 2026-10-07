@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Naveen Kumar S - Resume</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            color: #222;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 5px;
+        }
+
+        .contact {
+            text-align: center;
+            font-size: 14px;
+            margin-bottom: 25px;
+        }
+
+        h2 {
+            font-size: 18px;
+            border-bottom: 2px solid #222;
+            padding-bottom: 4px;
+            margin-top: 25px;
+        }
+
+        h3 {
+            font-size: 16px;
+            margin-bottom: 3px;
+        }
+
+        p {
+            margin: 5px 0;
+        }
+
+        ul {
+            margin-top: 5px;
+        }
+
+        .section {
+            margin-bottom: 15px;
+        }
+
+        .skills {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+        }
+
+        .project {
+            margin-bottom: 15px;
+        }
+
+        .label {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- Header -->
+    <h1>NAVEEN KUMAR S</h1>
+
+    <div class="contact">
+        +91 6382199601 |
+        naveenvdsr2004@gmail.com |
+        <a href="https://github.com/naveenkumars24112004">
+            GitHub
+        </a> |
+        <a href="https://linkedin.com/in/naveen-kumar-s-4a502526a">
+            LinkedIn
+        </a>
+        <br>
+        Tamil Nadu, India
+    </div>
+
+    <!-- Career Objective -->
+    <div class="section">
+        <h2>CAREER OBJECTIVE</h2>
+
+        <p>
+            MCA student with a strong foundation in Linux, computer networks,
+            system administration, and troubleshooting. Seeking a Data Center
+            Technician Internship to apply knowledge of operating systems,
+            networking, hardware fundamentals, and technical troubleshooting
+            while gaining hands-on experience with large-scale data center
+            infrastructure.
+        </p>
+    </div>
+
+    <!-- Education -->
+    <div class="section">
+        <h2>EDUCATION</h2>
+
+        <h3>Master of Computer Applications (MCA)</h3>
+        <p>
+            KGISL Institute of Information Management, Coimbatore
+            <br>
+            2025–2027 | CGPA: 69.27%
+        </p>
+
+        <h3>Bachelor of Commerce (Computer Applications)</h3>
+        <p>
+            St. Joseph’s College, Tiruchirappalli
+            <br>
+            2022–2025 | CGPA: 79.6%
+        </p>
+
+        <h3>Higher Secondary Certificate (HSC)</h3>
+        <p>
+            St. Patrick’s Higher Secondary School, Dindigul
+            <br>
+            2021–2022 | 95.33%
+        </p>
+
+        <h3>Secondary School Leaving Certificate (SSLC)</h3>
+        <p>
+            St. Patrick’s Higher Secondary School, Dindigul
+            <br>
+            2019–2020 | 71.60%
+        </p>
+    </div>
+
+    <!-- Technical Skills -->
+    <div class="section">
+        <h2>TECHNICAL SKILLS</h2>
+
+        <div class="skills">
+
+            <div>
+                <span class="label">Operating Systems:</span>
+                Linux, Ubuntu, Windows
+            </div>
+
+            <div>
+                <span class="label">Programming:</span>
+                Python, Java, SQL
+            </div>
+
+            <div>
+                <span class="label">Networking:</span>
+                TCP/IP, DNS, DHCP, HTTP/HTTPS, IP Addressing,
+                Subnetting, OSI Model, Network Troubleshooting
+            </div>
+
+            <div>
+                <span class="label">System Administration:</span>
+                Linux Commands, File Systems, Processes, Services,
+                Permissions, Package Management
+            </div>
+
+            <div>
+                <span class="label">Hardware:</span>
+                CPU, RAM, Storage, Motherboard, I/O Devices,
+                Peripheral Troubleshooting
+            </div>
+
+            <div>
+                <span class="label">Troubleshooting:</span>
+                System Diagnostics, Network Troubleshooting,
+                Log Analysis, Service Management
+            </div>
+
+            <div>
+                <span class="label">Tools:</span>
+                Git, GitHub, VS Code, Eclipse, Docker, Kubernetes,
+                Postman
+            </div>
+
+        </div>
+    </div>
+
+    <!-- Projects -->
+    <div class="section">
+        <h2>PROJECTS</h2>
+
+        <div class="project">
+            <h3>
+                1. Auto Scaling AI Inference Service Using Docker and Kubernetes
+            </h3>
+
+            <p>
+                <span class="label">Technologies:</span>
+                Python, Docker, Kubernetes, Linux
+            </p>
+
+            <ul>
+                <li>
+                    Designed a scalable service architecture for AI inference
+                    workloads.
+                </li>
+
+                <li>
+                    Applied Python, Docker, Kubernetes, Linux, and networking
+                    concepts for scalable deployment.
+                </li>
+
+                <li>
+                    Explored service scalability, resource management, and
+                    containerized application deployment.
+                </li>
+            </ul>
+        </div>
+
+        <div class="project">
+            <h3>
+                2. Web-Based Feedback Management System
+            </h3>
+
+            <p>
+                <span class="label">Technologies:</span>
+                PHP, MySQL, HTML, CSS
+            </p>
+
+            <ul>
+                <li>
+                    Developed a web-based system to collect and manage user
+                    feedback.
+                </li>
+
+                <li>
+                    Implemented CRUD operations and MySQL database
+                    connectivity.
+                </li>
+
+                <li>
+                    Focused on reliable data handling and feedback management.
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Certifications -->
+    <div class="section">
+        <h2>CERTIFICATIONS</h2>
+
+        <ul>
+            <li>Python Programming</li>
+            <li>SQL</li>
+            <li>Spring Boot</li>
+            <li>Docker Essentials</li>
+            <li>REST API Basics</li>
+            <li>Git &amp; GitHub</li>
+        </ul>
+    </div>
+
+    <!-- Soft Skills -->
+    <div class="section">
+        <h2>SOFT SKILLS</h2>
+
+        <p>
+            Problem Solving, Analytical Thinking, Communication,
+            Teamwork, Adaptability, Quick Learning
+        </p>
+    </div>
+
+    <!-- Languages -->
+    <div class="section">
+        <h2>LANGUAGES</h2>
+
+        <p>English, Tamil</p>
+    </div>
+
+</div>
+
+</body>
+</html>
